@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Improving and refactoring React applications with focus on clean architecture and maintainable code.<br><br>👯 I’m looking to collaborate on<br><br>Frontend projects where structure, readability and long-term quality matter.<br><br>🤝 I’m looking for help with<br><br>Advanced React patterns, scalable frontend architecture and improving automated testing.<br><br>🌱 I’m currently learning<br><br>Deeper React concepts, better state management and performance optimization.<br><br>💬 Ask me about<br><br>React debugging, refactoring legacy frontend code, or fixing tricky CI/CD issues.<br><br>⚡ Fun fact<br><br>I enjoy turning complex problems into clean, structured solutions.
+🔭 I’m currently working on<br>Refactoring and improving React applications with focus on clean, maintainable code.<br>👯 I’m looking to collaborate on<br>Frontend projects that value structure and long-term quality.<br>🌱 I’m currently learning<br>Advanced React patterns and better testing strategies.<br>💬 Ask me about<br>React debugging, legacy refactors, or CI/CD issues.<br>⚡ Fun fact<br>I like turning messy code into structured solutions.
 
 
 # 💻 Tech Stack:
